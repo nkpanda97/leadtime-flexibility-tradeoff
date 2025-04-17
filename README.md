@@ -11,24 +11,47 @@ If you use this code or build upon it, please cite the following:
 
 ### 📄 Paper  
 > **"Impact of Lead Time on Aggregate EV Flexibility for Congestion Management Services"**  
-> *Nanda Kishor Panda, Peter Palensky, Simon H. Tindemans*, *IEEE PowerTech 2025, Kiel, Germany*, *2025*.  
-> DOI: *Will be updated after publication*.
-
+> *Nanda Kishor Panda, Peter Palensky, Simon H. Tindemans*, *IEEE PowerTech 2025, Kiel, Germany*, *2025*.
+> *Preprint*: [arxiv](https://arxiv.org/pdf/2501.15946) 
+> DOI: [https://doi.org/10.48550/arXiv.2501.15946](https://doi.org/10.48550/arXiv.2501.15946)#### BibTeX
+```bibtex
+@misc{panda2025impactleadtimeaggregate,
+      title={Impact of Lead Time on Aggregate EV Flexibility for Congestion Management Services}, 
+      author={Nanda Kishor Panda and Peter Palensky and Simon H. Tindemans},
+      year={2025},
+      eprint={2501.15946},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2501.15946}, 
+}
+```
 ### 💻 Code (via Zenodo)  
 This code is archived with a DOI via [Zenodo](https://zenodo.org/). Please cite it as:
 
-> *Nanda Kishor Panda, Peter Palensky, Simon H. Tindemans. (2025). Impact of Lead Time on Aggregate EV Flexibility for Congestion Management Services.* [Software]. Zenodo.  
-> DOI: https://doi.org/10.5281/zenodo.XXXXXXX *(update after upload)*
+> Nanda Kishor Panda, Peter Palensky, Simon H. Tindemans. (2025). Impact of Lead Time on Aggregate EV Flexibility for Congestion Management Services.
+> Software: Zenodo.  
+> DOI:[https://doi.org/10.5281/zenodo.XXXXXXX ](https://doi.org/10.5281/zenodo.15236426)
 
 #### BibTeX
 ```bibtex
-@misc{ev_flexibility_code_2025,
-  author       = {Your Name},
-  title        = {Impact of Lead Time on Aggregate EV Flexibility},
+@software{nanda_kishor_panda_2025_15236427,
+  author       = {Nanda Kishor Panda},
+  title        = {nkpanda97/leadtime-flexibility-tradeoff: Version
+                   2025.1
+                  },
+  month        = apr,
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  version      = {production},
+  doi          = {10.5281/zenodo.15236427},
+  url          = {https://doi.org/10.5281/zenodo.15236427},
+  swhid        = {swh:1:dir:33854ff2eea0667b7db9349ad01f43f6a0c9bba6
+                   ;origin=https://doi.org/10.5281/zenodo.15236426;vi
+                   sit=swh:1:snp:f4ce790777ea5f2e3406b5cb04e1a21df67f
+                   61a0;anchor=swh:1:rel:97386b1f46cb310a26a8c1857cf9
+                   f8cbd8c353c0;path=nkpanda97-leadtime-flexibility-
+                   tradeoff-a80bf74
+                  },
 }
 ```
 
