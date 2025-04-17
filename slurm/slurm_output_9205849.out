@@ -1,0 +1,10 @@
+2: Running Flexi product quantification
+Running for residential
+---------------------------------------------------------------------------
+Total combinations: 104544 are generated to be simulated.
+{'lead_time': 'inf', 'bi_directional': True, 'f_start': 0, 'f_end': 1, 'product': 're_dispatch_down', 'base_profile': 'Dumb', 'data_index': 0}
+{'lead_time': 'inf', 'bi_directional': True, 'f_start': 0, 'f_end': 1, 'product': 're_dispatch_down', 'base_profile': 'Dumb', 'data_index': 1}
+{'lead_time': 'inf', 'bi_directional': True, 'f_start': 0, 'f_end': 1, 'product': 're_dispatch_down', 'base_profile': 'Dumb', 'data_index': 2}
+{'lead_time': 'inf', 'bi_directional': True, 'f_start': 0, 'f_end': 1, 'product': 're_dispatch_down', 'base_profile': 'Dumb', 'data_index': 3}
+{'lead_time': 'inf', 'bi_directional': True, 'f_start': 0, 'f_end': 1, 'product': 're_dispatch_down', 'base_profile': 'Dumb', 'data_index': 4}
+---------------------------------------------------------------------------

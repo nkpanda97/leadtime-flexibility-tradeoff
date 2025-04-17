@@ -1,0 +1,47 @@
+============================================================================================== 
+Warning! Mixing Conda and module environments may lead to corruption of the
+user environment. 
+We do not recommend users mixing those two environments unless absolutely
+necessary. Note that 
+SURF does not provide any support for Conda environment.
+For more information, please refer to our software policy page:
+https://servicedesk.surf.nl/wiki/display/WIKI/Software+policy+Snellius#SoftwarepolicySnellius-UseofAnacondaandMinicondaenvironmentsonSnellius 
+
+Remember that many packages have already been installed on the system and can
+be loaded using 
+the 'module load <package__name>' command. If you are uncertain if a package is
+already available 
+on the system, please use 'module avail' or 'module spider' to search for it.
+============================================================================================== 
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 128 concurrent workers.
+[Parallel(n_jobs=-1)]: Done   9 tasks      | elapsed:   28.9s
+[Parallel(n_jobs=-1)]: Done  32 tasks      | elapsed:   32.6s
+[Parallel(n_jobs=-1)]: Done  57 tasks      | elapsed:   34.3s
+[Parallel(n_jobs=-1)]: Done  82 tasks      | elapsed:   35.3s
+[Parallel(n_jobs=-1)]: Done 109 tasks      | elapsed:   36.4s
+[Parallel(n_jobs=-1)]: Done 136 tasks      | elapsed:   40.0s
+[Parallel(n_jobs=-1)]: Done 165 tasks      | elapsed:   43.8s
+[Parallel(n_jobs=-1)]: Done 194 tasks      | elapsed:   44.6s
+[Parallel(n_jobs=-1)]: Done 225 tasks      | elapsed:   45.7s
+[Parallel(n_jobs=-1)]: Done 256 tasks      | elapsed:   48.3s
+[Parallel(n_jobs=-1)]: Done 289 tasks      | elapsed:   53.2s
+[Parallel(n_jobs=-1)]: Done 322 tasks      | elapsed:   55.4s
+[Parallel(n_jobs=-1)]: Done 357 tasks      | elapsed:   58.8s
+[Parallel(n_jobs=-1)]: Done 392 tasks      | elapsed:  1.0min
+[Parallel(n_jobs=-1)]: Done 429 tasks      | elapsed:  1.1min
+[Parallel(n_jobs=-1)]: Done 466 tasks      | elapsed:  1.1min
+[Parallel(n_jobs=-1)]: Done 505 tasks      | elapsed:  1.2min
+[Parallel(n_jobs=-1)]: Done 544 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=-1)]: Done 585 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=-1)]: Done 626 tasks      | elapsed:  1.4min
+[Parallel(n_jobs=-1)]: Done 669 tasks      | elapsed:  1.4min
+[Parallel(n_jobs=-1)]: Done 712 tasks      | elapsed:  1.5min
+[Parallel(n_jobs=-1)]: Done 757 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=-1)]: Done 802 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=-1)]: Done 849 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=-1)]: Done 896 tasks      | elapsed:  1.8min
+[Parallel(n_jobs=-1)]: Done 945 tasks      | elapsed:  1.8min
+[Parallel(n_jobs=-1)]: Done 994 tasks      | elapsed:  1.9min
+[Parallel(n_jobs=-1)]: Done 1045 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=-1)]: Done 1096 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=-1)]: Done 1149 tasks      | elapsed:  2.2min
